@@ -1,0 +1,14 @@
+C:\Users\Мария\source\repos\DEMO\DEMO\bin\Debug\DEMO.exe.config
+C:\Users\Мария\source\repos\DEMO\DEMO\bin\Debug\DEMO.exe
+C:\Users\Мария\source\repos\DEMO\DEMO\bin\Debug\DEMO.pdb
+C:\Users\Мария\source\repos\DEMO\DEMO\obj\Debug\DEMO.csproj.AssemblyReference.cache
+C:\Users\Мария\source\repos\DEMO\DEMO\obj\Debug\DEMO.Form1.resources
+C:\Users\Мария\source\repos\DEMO\DEMO\obj\Debug\DEMO.PartnersForm.resources
+C:\Users\Мария\source\repos\DEMO\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\Мария\source\repos\DEMO\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\Мария\source\repos\DEMO\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\Мария\source\repos\DEMO\DEMO\obj\Debug\DEMO.exe
+C:\Users\Мария\source\repos\DEMO\DEMO\obj\Debug\DEMO.pdb
+C:\Users\Мария\source\repos\DEMO\DEMO\obj\Debug\DEMO.PartnersCard.resources
+C:\Users\Мария\source\repos\DEMO\DEMO\obj\Debug\DEMO.AddEditForm.resources
+C:\Users\Мария\source\repos\DEMO\DEMO\obj\Debug\DEMO.PartnerHistoryForm.resources
